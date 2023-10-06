@@ -12,20 +12,16 @@ This repository houses the computational models for understanding the lithium is
 ### Prerequisites
 - R (version >= 4.0.0)
 - Required R packages: (you can install them using `install.packages("package_name")`)
-  - `tidyverse`
-  - `lubridate`
-  - `ggplot2`
-  - `reshape2`
-  - ... (and others as specified in the scripts)
+
 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/LithiumIsotope_PTboundary.git
+git clone https://github.com/eloter01/lithium-isotope-model.git
 ```
 2. Navigate to the cloned directory:
 ```bash
-cd LithiumIsotope_PTboundary
+
 ```
 3. Open the R scripts and ensure you've installed all the necessary packages.
 
